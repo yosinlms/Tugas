@@ -1,0 +1,37 @@
+name: news_apps
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - "assets/images/Rectangle1.png"
+    - "assets/images/Bg_Image.png"
+    - "assets/images/News.png"
+    - "assets/images/Avatar.png"
+    - "assets/images/ImageLN1.png"
+    - "assets/images/ImageLN2.png"
+    - "assets/images/ImageLN3.png"
+    - "assets/images/LI1.png"
+    - "assets/images/LI2.png"
+    - "assets/images/LI3.png"
+    - "assets/Icon/combined_shape.png"
+    - "assets/Icon/menu_icon.png"
+    - "assets/Icon/chatbubble-ellipses-outline.png"
+    - "assets/Icon/bookmark-outline.png"
+    - "assets/Icon/arrow-redo-outline.png"
+    - "assets/Icon/arrow-forward-circle-outline.png"
