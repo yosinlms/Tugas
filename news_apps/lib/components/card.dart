@@ -18,7 +18,7 @@ class Card_widget extends StatelessWidget {
           ),
         );
       },
-      child: Container(
+      child: SizedBox(
         width: 311,
         height: 311,
         child: SingleChildScrollView(

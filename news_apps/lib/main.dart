@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:news_apps/home.dart';
 import 'package:news_apps/onBoarding.dart';
 
 void main() {
